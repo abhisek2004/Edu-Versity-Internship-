@@ -59,18 +59,8 @@ This internship has been a cornerstone in my journey towards becoming a proficie
 #React 
 #Nodejs
 ![FORWARDING FROM UNIVERSITY](https://github.com/user-attachments/assets/81e311b3-a05a-4667-bdc5-f438191f1b66)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![14 (Edu-versity (Full -Stack-Web development)) LETTER](https://github.com/user-attachments/assets/dd12b89b-15f4-45a2-93b8-519bbb5e6ee2)
+![14 (Edu-versity (Full -Stack-Web development)) LOR](https://github.com/user-attachments/assets/46742a24-8331-4408-997c-0ddca6899971)
+![14 (Edu-versity (Full -Stack-Web development)) Participation Certificate](https://github.com/user-attachments/assets/0b49434a-7b88-40e2-b2db-542645dce075)
+![14 (Edu-versity (Full -Stack-Web development)) Internship Completion Certificate](https://github.com/user-attachments/assets/b4c2dadc-78ef-4e6e-a8e2-e4ba62f0e40e)
+![14 (Edu-versity (Full -Stack-Web development)) Industrial Training Completion Certificate](https://github.com/user-attachments/assets/dbea6db8-60f5-49cd-987b-3531074f62ae)
